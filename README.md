@@ -1,2 +1,2 @@
 ## 欢迎来到qxxqhh
-  [点这](qxxqhh-patch-2)
+  [点这](qxxqhh2.github.io)
